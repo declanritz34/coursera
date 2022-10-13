@@ -1,0 +1,98 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "92a1054f-65ca-4f59-b147-e1f9e6d3ba13",
+   "metadata": {},
+   "source": [
+    "My Jupyter Notebook on IBM studio"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "30a3c0d8-c9d1-48cd-a488-ca54b2d4e090",
+   "metadata": {},
+   "source": [
+    "Declan Ritzenthaler - Internal Audit"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e5c45bbb-1ccc-4b48-a7d6-b3e1b6b0e5da",
+   "metadata": {},
+   "source": [
+    "I like data science because its cool"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8d93a84e-a563-467d-998e-2bee5d2f1a25",
+   "metadata": {},
+   "source": [
+    "The code in cell 5 will do some math"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "e345210e-1385-4d34-a20c-bcd0ab5f4f5e",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "10"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "5 + 5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "33bffa00-dde1-4ad0-960d-def33b85e638",
+   "metadata": {},
+   "source": [
+    "-1\n",
+    "2\n",
+    "-3\n",
+    "4\n",
+    "-5\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8abf8f49-33b8-4254-aea4-04a3608131fa",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
